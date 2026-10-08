@@ -6,7 +6,7 @@
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/lalit-mali) • [Email](mailto:lalitmali.tech@gmail.com) • [GitHub](https://github.com/lalitmali04)
+[LinkedIn](www.linkedin.com/in/lalit-mali04) • [Email](mailto:lalitmali.tech@gmail.com) • [GitHub](https://github.com/lalitmali04)
 
 </div>
 
@@ -124,7 +124,7 @@ Full-stack ticket booking platform with secure auth, seat selection and real-tim
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-mali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lalit-mali04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitmali.tech@gmail.com)
 
 *Open to Full Stack Developer roles.*
