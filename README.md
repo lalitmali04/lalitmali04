@@ -108,6 +108,14 @@ Full-stack ticket booking platform with secure auth, seat selection and real-tim
 
 <br>
 
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🎓 Coursework & Soft Skills
 
 - **Coursework:** Operating Systems · Database Management · Object-Oriented Programming · Software Engineering
