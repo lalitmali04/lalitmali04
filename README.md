@@ -98,11 +98,7 @@ Full-stack ticket booking platform with secure auth, seat selection and real-tim
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitmali04&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/lalitmali04/lalitmali04/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+
 
 </div>
 
